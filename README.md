@@ -35,4 +35,5 @@ Erstellt geplante Aufgabe für tägliches Backup.
 ### 5. EventLog.ps1
 Lieste die letzten 50 System-Logs aus und exportiert sie als CSV-Datei im Reports-Ordner.
 
-## Projektstruktur
+## Vielen Dank
+
